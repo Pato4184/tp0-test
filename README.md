@@ -7,5 +7,3 @@ Apellidos: Canciani Barabani
 Carrera: Maestria en Ingenieria (MECOM)
 
 Fun Fact: Me gustan los jueguito'
-
-Comida Favorita: Pizza
