@@ -11,3 +11,4 @@ Fun Fact: Me gustan los jueguito'
 Comida Favorita: Pizza
 
 Videojuego Favorito: TLOU2
+
