@@ -9,3 +9,5 @@ Carrera: Maestria en Ingenieria (MECOM)
 Fun Fact: Me gustan los jueguito'
 
 Animal Favorito: Gato
+
+Pelicula Favorita: "El Gato con Botas 2"
